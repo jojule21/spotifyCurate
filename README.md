@@ -36,4 +36,6 @@ python SpotifyCode/main.py
 
 ## Status
 
+🚧 **Under active development** — currently integrating Google Gemini and Anthropic Claude APIs to improve the emotion-to-music mapping beyond the fixed genre rules.
+
 Working prototype. Spotify has been deprecating parts of its Web API (e.g., recommendations endpoints), so this app deliberately builds queues from *your own top artists* rather than deprecated recommendation calls. If an endpoint 404s for you, check the [Spotify API changelog](https://developer.spotify.com/documentation/web-api).
