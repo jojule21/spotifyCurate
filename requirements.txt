@@ -1,0 +1,6 @@
+flask
+python-dotenv
+spotipy
+opencv-python
+deepface
+tf-keras
